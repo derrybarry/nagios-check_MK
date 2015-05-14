@@ -3,4 +3,5 @@ nagios-check_mk is a widget for Shopify's dashing framework to display data retr
   
   This repo contains a customized progressbars widget, a sample dashboard entry, and a job to fetch data from one or more Check_MK instances.
   
-  
+  [](https://github.com/derrybarry/nagios-check_MK/blob/master/cpu.jpg)
+  [](https://github.com/derrybarry/nagios-check_MK/blob/master/disk.jpg)
